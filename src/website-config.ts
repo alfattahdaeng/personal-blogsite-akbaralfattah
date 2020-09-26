@@ -60,7 +60,7 @@ const config: WebsiteConfig = {
   mailchimpAction: 'https://the1997.us2.list-manage.com/subscribe?u=5e212499be794ae866c6fec4d&id=856ba0dc93',
   mailchimpName: 'b_5e212499be794ae866c6fec4d_856ba0dc93',
   mailchimpEmailFieldName: 'MERGE0',
-  googleSiteVerification: 'GoogleCode',
+  googleSiteVerification: 'n3G49XWE59ow2_eU-DpewCPRyAapSpWagRei8XUDP6Y',
   footer: 'All right reserved',
 };
 
