@@ -80,5 +80,8 @@ Setelah kita unrestrict, dm dari akun tersebut akan balik ke menu direct message
 
 Wow wow wow, sungguh simple kan caranya? penjelasannya aja yang sengaja gua banyakin, biar lu nyimak. Namun, gua yakin, ada aja yang males ngebaca dan ngikutin, atau udah ngikutin tapi belum ngerti. Berhubung gua lagi _happy_ pas nulis ini, nih gua kasih versi video, silakan 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oRK1V8eaGF4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</br>
 
 > Jangan lupa share artikel ini ya demi membantu teman-teman kita yang membutuhkan, biar mereka ga nanya lagi, cheers!
