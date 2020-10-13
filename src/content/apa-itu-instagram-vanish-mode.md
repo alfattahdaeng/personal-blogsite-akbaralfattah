@@ -32,7 +32,6 @@ Jujur aja, fitur ini baru ada di beberapa negara dan tidak termasuk Indonesia he
 
 https://twitter.com/wongmjane/status/1240754810732724224
 
-
 Waaaaah, puja tim Instagram!
 
 Fitur ini sungguh sangat cocok buat lu yang suka 'nakal' di dm instagram, sekarang lu bebas ngapain aja, tanpa takut ketahuan 😉

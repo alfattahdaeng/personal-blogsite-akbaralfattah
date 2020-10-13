@@ -6767,6 +6767,13 @@ gatsby-plugin-sitemap@2.4.12:
     pify "^3.0.0"
     sitemap "^1.13.0"
 
+gatsby-plugin-twitter@^2.3.12:
+  version "2.3.12"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-twitter/-/gatsby-plugin-twitter-2.3.12.tgz#847a08aa131ac9997698d5c4970634ee2a13b6ba"
+  integrity sha512-djpmNj11Tc8LCwdTpqeAQRpVwGb+kH22wkJ6WETUoiA0QNVK0H7bmCvFfpDr3AYFEtLcmdm7S87IqlSCwcRVOw==
+  dependencies:
+    "@babel/runtime" "^7.11.2"
+
 gatsby-plugin-typescript@2.4.19:
   version "2.4.19"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.4.19.tgz#ae644cf973e07b6266da17bb47dae0e0bfaeeb23"

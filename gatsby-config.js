@@ -47,6 +47,17 @@ module.exports = {
               quality: 100,
             },
           },
+          {
+            resolve: `gatsby-remark-embedder`,
+            options: {
+              customTransformers: [
+                // Your custom transformers
+              ],
+              services: {
+                // The service-specific options by the name of the service
+              },
+            },
+          },
         ],
       },
     },
@@ -63,6 +74,7 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
     'gatsby-plugin-feed',
+    'gatsby-plugin-twitter',
     {
       resolve: 'gatsby-plugin-postcss',
       options: {
@@ -85,17 +97,6 @@ module.exports = {
         sampleRate: 100,
         // Determines how often site speed tracking beacons will be sent
         siteSpeedSampleRate: 10,
-      },
-    },
-    {
-      resolve: `gatsby-remark-embedder`,
-      options: {
-        customTransformers: [
-          // Your custom transformers
-        ],
-        services: {
-          // The service-specific options by the name of the service
-        },
       },
     },
   ],
