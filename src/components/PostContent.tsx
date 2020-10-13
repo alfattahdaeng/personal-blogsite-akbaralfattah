@@ -60,6 +60,10 @@ export const PostFullContent = styled.section`
     padding-top: 0;
   }
 
+  .twitter-tweet.twitter-tweet-rendered{
+    margin: 40px auto !important;
+  }
+
   h1,
   h2,
   h3,
