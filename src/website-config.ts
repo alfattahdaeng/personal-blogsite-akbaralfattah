@@ -61,7 +61,7 @@ const config: WebsiteConfig = {
   mailchimpName: 'b_5e212499be794ae866c6fec4d_856ba0dc93',
   mailchimpEmailFieldName: 'MERGE0',
   googleSiteVerification: 'n3G49XWE59ow2_eU-DpewCPRyAapSpWagRei8XUDP6Y',
-  footer: 'All right reserved',
+  footer: 'All rights reserved. All thoughts deserved.',
 };
 
 export default config;
