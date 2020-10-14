@@ -10,13 +10,13 @@ excerpt:  Tak bisa dipungkiri, sebuah pesan singkat dapat memicu perang dingin. 
 ---
 
 
-Setelah kemarin gue membahas gimana [baca DM biar ga ketahuan](/baca-dm-instagram-tanpa-ketahuan), kali ini gue akan memperkenalkan sebuah fitur baru dari Instagram [(pengumuman resmi Instagram)](https://about.instagram.com/blog/announcements/say-hi-to-messenger-introducing-new-messaging-features-for-instagram). Fitur yang sangat 'orisinil', yang ditiru Snapchat dan Telegram lebih dulu :)
+Setelah kemarin gue membahas gimana [baca dm biar ga ketahuan](/baca-dm-instagram-tanpa-ketahuan), kali ini gue akan memperkenalkan sebuah fitur baru dari Instagram [(pengumuman resmi)](https://about.instagram.com/blog/announcements/say-hi-to-messenger-introducing-new-messaging-features-for-instagram). Fitur yang sangat 'orisinil', yang ditiru Snapchat dan Telegram lebih dulu :)
 
 Pertama kali membaca tentang fitur tersebut, gue ngebayangin situasi di saat sepasang kekasih, sedang main handphone, terus salah satu bilang begini:
 
 "Sayang, pinjam handphone kamu dong"
 
-Kalimat singkat, yang membuat berkeringat dingin. Lupa menghapus _history_ DM instagram adalah sebabnya. 
+Kalimat singkat, yang membuat berkeringat dingin. Lupa menghapus _history_ dm Instagram adalah sebabnya. 
 
 Hal tersebut bakal gak _relate_ untuk beberapa orang, terutama yang mendukung gerakan "Pasangan Gak Boleh Lihat Handphone Pasangannya" alias "lu gak usah tau privasi gue kita sama-sama tau aja batesan privasi satu sama lain tai kucing lalala lilili".
 
@@ -28,13 +28,13 @@ Mungkin hampir mirip dengan fitur ["Disappearing Messages"](https://help.instagr
 
 **Lalu gimana caranya masuk ke vanish mode?**
 
-Jujur aja, fitur ini baru ada di beberapa negara dan tidak termasuk Indonesia hehe. Percuma dong gue bahas panjang lebar. Tapi tenang, mbak Wong sudah ngasih tutorialnya di twitter (saat masih tahap develop). Nah, tinggal sabar aja nunggu rilis resmi di Indonesia. 
+Jujur aja, fitur ini baru ada di beberapa negara dan tidak termasuk Indonesia hehe. Percuma dong gue bahas panjang lebar. Tapi tenang, mbak Wong sudah ngasih tutorialnya di Twitter (saat masih tahap develop). Nah, tinggal sabar aja nunggu rilis resmi di Indonesia. 
 
 https://twitter.com/wongmjane/status/1240754810732724224
 
 Waaaaah, puja tim Instagram!
 
-Fitur ini sungguh sangat cocok buat lu yang suka 'nakal' di dm instagram, sekarang lu bebas ngapain aja, tanpa takut ketahuan 😉
+Fitur ini sungguh sangat cocok buat lu yang suka 'nakal' di dm Instagram, sekarang lu bebas ngapain aja, tanpa takut ketahuan 😉
 
 Berterimakasihlah pada orang yang punya ide fitur ini, yang sudah pasti adalah salah satu korban dari pasangannya dan gue duga 100% pasti cowo, ga mungkin cewe. Lu bayangin pas meeting nentuin ide fitur baru Instagram, pasti beliau paling bersemangat, sambil ngomong dalem hati "anjing, ini momen yang gue tunggu, saatnya gue bebas nge-dm cewe-cewe". 
 
